@@ -95,24 +95,6 @@ A complete attendance system with reporting, authentication, and analytics.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true)](https://github.com/YOUR_USERNAME)
-
----
-
 ## GitHub Streak
 
 <p align="center">
