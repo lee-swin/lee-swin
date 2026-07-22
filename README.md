@@ -2,7 +2,7 @@
 My github profile
 =========================== -->
 
-<h1 align="center">Hi, I'm Lee-swin</h1>
+<h1 align="center">Im Lee-swin</h1>
 
 <p align="center">
 AI Engineering Enthusiast • Full-Stack Developer • UI/UX Designer
